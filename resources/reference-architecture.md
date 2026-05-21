@@ -116,3 +116,5 @@ Challenges 03 and 04 are independent of each other and can run in parallel once 
 | Data Factory     | Fabric-native pipelines           | Challenge 02   |
 | Eventstream      | Real-time event ingestion         | Challenge 04   |
 | Data Activator   | Alert rules on real-time data     | Challenge 04   |
+
+![alt text](<Fabric Hackathon.png>)
