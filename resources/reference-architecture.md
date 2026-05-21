@@ -4,6 +4,8 @@
 
 This hackathon builds a complete analytics platform for Wide World Importers using Microsoft Fabric. The architecture spans six workloads, all connected through OneLake as the unified storage layer. Each challenge adds a new piece to the architecture until the full picture is in place.
 
+![alt text](<Fabric Hackathon.png>)
+
 ```
                      Wide World Importers
                       Parquet Source Data
@@ -117,4 +119,3 @@ Challenges 03 and 04 are independent of each other and can run in parallel once 
 | Eventstream      | Real-time event ingestion         | Challenge 04   |
 | Data Activator   | Alert rules on real-time data     | Challenge 04   |
 
-![alt text](<Fabric Hackathon.png>)
